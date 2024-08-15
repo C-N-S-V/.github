@@ -13,8 +13,6 @@
 3. 일정 시간동안 사용자의 자세가 몇 번 흐트러졌는지 확인이 가능함
 
 ## Members
-<img src="![main](https://github.com/user-attachments/assets/ec85b83b-4479-4e4e-9fa1-bafc6d5ff262) " width="200" height="200"/>
-<img src="![KakaoTalk_20240815_140610405](https://github.com/user-attachments/assets/c9e1a198-c8ee-4203-945b-201d79b87c6b) " width="200" height="200"/>
-
+<img src="![main](https://github.com/user-attachments/assets/ec85b83b-4479-4e4e-9fa1-bafc6d5ff262) width="200" height="200"/> <img src="![KakaoTalk_20240815_140610405](https://github.com/user-attachments/assets/c9e1a198-c8ee-4203-945b-201d79b87c6b) width="200" height="200"/> <img src="![KakaoTalk_20240815_141551378](https://github.com/user-attachments/assets/f45e1b95-21d8-44cf-a13d-4598386d8025) width="200" height="200"/> 
 
 
