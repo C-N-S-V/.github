@@ -2,19 +2,17 @@
 
 전공 수업 캡스톤 디자인을 위해 만들어졌습니다
 
-센서를 이용한 허리 자세 교정 프로그램
+## 센서를 이용한 허리 자세 교정 프로그램
 
 ![C N S V 발표자료](https://github.com/user-attachments/assets/69f47658-d6cb-424c-abf8-4e5c659cb3fa)
 
-<!--
 
-**Here are some ideas to get you started:**
+## Functions
+1. 센서를 이용해 사용자의 척추(허리) 각도를 인식함
+2. 각도를 계산해 자세가 흐트러졌을 시 알림이 전송됨
+3. 일정 시간동안 사용자의 자세가 몇 번 흐트러졌는지 확인이 가능함
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Members
+
 
 
