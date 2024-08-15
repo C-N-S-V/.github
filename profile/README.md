@@ -4,6 +4,7 @@
 
 센서를 이용한 허리 자세 교정 프로그램
 
+![C N S V 발표자료](https://github.com/user-attachments/assets/69f47658-d6cb-424c-abf8-4e5c659cb3fa)
 
 <!--
 
